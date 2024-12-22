@@ -8,11 +8,9 @@
 </div>
 
 <!-- Tech Stack -->
-<h3 align="left" style="display: inline-flex; align-items: center;">
-  <a href="https://Laptoplogo.com" target="_blank" rel="noreferrer"> 
-    <img src="https://static.vecteezy.com/system/resources/previews/048/342/128/non_2x/cartoon-laptop-logo-with-a-happy-screen-png.png" alt="Laptoplogo" width="40" height="40" style="margin-right: 5px;"/> 
-  </a>
-  <b>Tech Stack</b>:
+<div align="center">
+  
+# 💻 Tech Stack 🍉
 </h3>
 <p align="left">
   <!-- Laptop Logo -->
@@ -96,7 +94,7 @@
 <!-- Socials -->
 <div align="center">
   
-## 🌐 Connect with Me 🍬
+# 🌐 Connect with Me 🍬
 <a href="https://www.linkedin.com/in/sanidhya-jangid-77aa47278/" target="_blank" rel="noreferrer">
   <img src="https://image.similarpng.com/very-thumbnail/2020/05/Linkedin-logo-in-square-shape-PNG.png" alt="LinkedIn" width="40" height="40" style="filter: brightness(0) invert(1);"/>
 </a>
