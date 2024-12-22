@@ -112,7 +112,7 @@
 
 <!-- Snake -->
 
-![snake gif](https://raw.githubusercontent.com/sanidhyakj/sanidhyakj/output/github-snake-dark.svg)
+<!--![snake gif](https://raw.githubusercontent.com/sanidhyakj/sanidhyakj/output/github-snake-dark.svg) -->
 <!-- Counter -->
 <div align="center">
   
