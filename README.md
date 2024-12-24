@@ -3,9 +3,10 @@
 <!-- Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanidhyakj&hide_border=true&include_all_commits=true&count_private=true&theme=radical" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sanidhyakj&hide_border=true&theme=radical" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sanidhyakj&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20j" width="50%" /> </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhyakj&hide_border=true&include_all_commits=true&count_private=true&layout=compact&theme=radical" width="36%" /> </br>
 </div>
+
 
 
 
