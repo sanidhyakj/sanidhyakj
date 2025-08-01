@@ -10,30 +10,77 @@
 </p>
 
 ---
-<div align="center">
-  
-## 💻 Tech Stack
-  
-</div>
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+
+<table align="center">
+<thead>
+<tr>
+<th>Programming Languages</th>
+<th>Web & Frontend</th>
+<th>AI / ML / GenAI</th>
+<th>Tools & Platforms</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="30"/></td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30"/></td>
+<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="30"/></td>
+<td align="center"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/></td>
+<td align="center"><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="30"/></td>
+<td align="center"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="30"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/></td>
+<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="30"/></td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="30"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="30"/></td>
+</tr>
+<tr>
+<td></td>
+<td align="center"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" width="70"/></td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="30"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30"/></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="30"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="30"/></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td align="center"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="30"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" width="30"/></td>
+<td align="center"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="30"/></td>
+</tr>
+</tbody>
+</table>
+
+</p>
 
 ---
 
-<div align="center">
-
-| Languages | Web & Frameworks | Data & ML | Databases & Tools |
-|----------|------------------|-----------|--------------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40" height="40" alt="Bootstrap"/> | <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40" height="40" alt="Seaborn"/> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="40" height="40" alt="Flask"/> | <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow"/> | <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40" alt="Selenium"/> |
-|  | <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="40" height="40" alt="Streamlit"/> | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch"/> | <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="OpenCV"/> |
-
-</div>
-
-
----
-
-## 🌐 Connect with Me
+<h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanidhya-jangid-77aa47278/" target="_blank">
