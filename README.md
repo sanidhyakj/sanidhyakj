@@ -1,121 +1,61 @@
-<h1 align="center">Hi 👋, I'm Sanidhya😊</h1>
+<h1 align="center">Hi 👋, I'm Sanidhya 😊</h1>
 
-<!-- Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanidhyakj&hide_border=true&include_all_commits=true&count_private=true&theme=radical" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sanidhyakj&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20j" width="50%" /> </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhyakj&hide_border=true&include_all_commits=true&count_private=true&layout=compact&theme=radical" width="36%" /> </br>
-</div>
-
-
-
-
-<!-- Tech Stack -->
-<div align="center">
-  
-# 💻 Tech Stack 🍉
-</h3>
-<p align="left">
-  <!-- Laptop Logo -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://w7.pngwing.com/pngs/804/269/png-transparent-bootstrap-hd-logo-thumbnail.png" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <!-- C Programming -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <!-- C++ Programming -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <!-- Flask -->
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiTJfxNXCBM5FyRrn8wDFS6k0NBXIp4ipKygykEWToJaze1cRi1-RmEwVbhmREvXcpId4&usqp=CAU" alt="flask" width="40" height="40"/> 
-  </a> 
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <!-- HTML5 -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <!-- OpenCV -->
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a> 
-  <!-- Pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <!-- PyTorch -->
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a> 
-  <!-- Scikit-learn -->
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-  <!-- Seaborn -->
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a> 
-  <!-- Selenium -->
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
-  </a> 
-  <!-- TensorFlow -->
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-  <!-- Streamlit -->
-  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="streamlit" width="40" height="40"/> 
-  </a> 
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanidhyakj&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" width="55%" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sanidhyakj&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20j" width="50%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhyakj&hide_border=true&layout=compact&theme=radical&langs_count=8" width="36%" />
 </p>
 
-<!-- Socials -->
+---
 <div align="center">
   
-# 🌐 Connect with Me 🍬
-<a href="https://www.linkedin.com/in/sanidhya-jangid-77aa47278/" target="_blank" rel="noreferrer">
-  <img src="https://image.similarpng.com/very-thumbnail/2020/05/Linkedin-logo-in-square-shape-PNG.png" alt="LinkedIn" width="40" height="40" style="filter: brightness(0) invert(1);"/>
-</a>
-<a href="https://www.instagram.com/sanidhyajangid18/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
-</a>
-<a href="mailto:sanidhyajangid6@gmail.com" target="_blank" rel="noreferrer">
-  <img src="https://w7.pngwing.com/pngs/17/643/png-transparent-iphone-computer-icons-email-email-miscellaneous-blue-angle-thumbnail.png" alt="Email" width="40" height="40" style="filter: brightness(0) invert( 1);"/>
-</a>
-<a href="mailto:sanidhyakj22@iitk.ac.in" target="_blank" rel="noreferrer">
-  <img src="https://w7.pngwing.com/pngs/17/643/png-transparent-iphone-computer-icons-email-email-miscellaneous-blue-angle-thumbnail.png" alt="Email" width="40" height="40" style="filter: brightness(0) invert(1);"/>
-</a>
-
-<!-- Snake -->
-
-<!--![snake gif](https://raw.githubusercontent.com/sanidhyakj/sanidhyakj/output/github-snake-dark.svg) -->
-<!-- Counter -->
-<div align="center">
+## 💻 Tech Stack
   
-  [![](https://visitcount.itsvg.in/api?id=sanidhyakj&icon=10&color=6)](https://visitcount.itsvg.in)
 </div>
+
+---
+
+<div align="center">
+
+| Languages | Web & Frameworks | Data & ML | Databases & Tools |
+|----------|------------------|-----------|--------------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40" height="40" alt="Bootstrap"/> | <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40" height="40" alt="Seaborn"/> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="40" height="40" alt="Flask"/> | <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow"/> | <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40" alt="Selenium"/> |
+|  | <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="40" height="40" alt="Streamlit"/> | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch"/> | <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="OpenCV"/> |
+
+</div>
+
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanidhya-jangid-77aa47278/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/sanidhyajangid18/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="40" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="mailto:sanidhyajangid6@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail.png" width="40" alt="Personal Email"/>
+  </a>
+  &nbsp;
+  <a href="mailto:sanidhyakj22@iitk.ac.in" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail.png" width="40" alt="IITK Email"/>
+  </a>
+</p>
+
+---
+
+<!-- Visitor Count -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=sanidhyakj&icon=10&color=6" alt="Visitor Count"/>
+</p>
